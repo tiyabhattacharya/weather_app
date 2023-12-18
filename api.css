@@ -29,6 +29,13 @@ body{
     margin: 1rem;
 }
 
+.card img#icon{
+  
+    margin: 0 auto;
+    display:block;
+   
+}
+
 img#icon{
     width: 26%;
     
